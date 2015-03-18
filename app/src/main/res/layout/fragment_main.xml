@@ -1,0 +1,83 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="id.zelory.hipwee.fragment.MainFragment">
+
+
+        <com.twotoasters.jazzylistview.JazzyListView
+            android:id="@+id/list_item"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            android:dividerHeight="0dp"
+            android:divider="@android:color/white"/>
+
+
+        <FrameLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+            <ImageView
+                android:id="@+id/header_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/holder1"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#F6921D"
+                android:layout_gravity="bottom">
+
+                <TextView
+                    android:id="@+id/prev"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/judulTop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:padding="4dp"
+                    android:text="Top 7 Hari Terakhir"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"/>
+
+                <TextView
+                    android:id="@+id/next"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="end|right"
+                    android:padding="4dp"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/white"
+                    android:text=">>"/>
+
+            </FrameLayout>
+
+            <ImageView
+                android:id="@+id/gambarTop"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/top7"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal|top"/>
+
+        </FrameLayout>
+
+    </FrameLayout>
+</android.support.v4.widget.SwipeRefreshLayout>

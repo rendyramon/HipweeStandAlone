@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">hipwee</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3191470906130683/7575289656</string>
+    <string name="loading_ad_unit_id">ca-app-pub-3191470906130683/9052022859</string>
+    <string name="video_ad_unit_id">ca-app-pub-3191470906130683/1528756057</string>
+
+    <string name="header_title">KATEGORI</string>
+    <string name="header_sample">PILIH KATEGORI</string>
+    <string name="footer_button_close">TUTUP</string>
+    <string name="footer_button_confirm">CONFIRM</string>
+    <string name="footer_sample">Hipwee.com</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+</resources>

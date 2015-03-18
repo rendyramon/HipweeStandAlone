@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hubungan">#969f383a</color>
+    <color name="hiburan">#96ffcc00</color>
+    <color name="tips">#9600b69d</color>
+    <color name="style">#96330066</color>
+    <color name="feature">#96689f38</color>
+    <color name="sukses">#96cb060c</color>
+    <color name="travel">#964d4d4d</color>
+    <color name="motivasi">#960b77a9</color>
+    
+    <color name="bghubungan">#9f383b</color>
+    <color name="bghiburan">#ffcc00</color>
+    <color name="bgtips">#00b69d</color>
+    <color name="bgstyle">#330066</color>
+    <color name="bgfeature">#689f38</color>
+    <color name="bgsukses">#cb060c</color>
+    <color name="bgtravel">#4d4d4d</color>
+    <color name="bgmotivasi">#0b77a9</color>
+    
+    <color name="primary">#F9B03B</color>
+    <color name="primary_dark">#F6921D</color>
+    <color name="primary_light">#FFE0B2</color>
+    <color name="accent">#F56431</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#F6921D</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="overlay_light">#F8F8F8</color>
+</resources>
