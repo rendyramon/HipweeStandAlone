@@ -6,6 +6,8 @@ Android apps for reading article from Hipwee.com. This apps faster than mobile w
 <img src="https://raw.githubusercontent.com/zetbaitsu/HipweeStandAlone/master/ss/2.png" width="30%"></img>
 <img src="https://raw.githubusercontent.com/zetbaitsu/HipweeStandAlone/master/ss/3.png" width="30%"></img>
 <img src="https://raw.githubusercontent.com/zetbaitsu/HipweeStandAlone/master/ss/4.png" width="30%"></img>
+<img src="https://raw.githubusercontent.com/zetbaitsu/HipweeStandAlone/master/ss/5.png" width="30%"></img>
+<img src="https://raw.githubusercontent.com/zetbaitsu/HipweeStandAlone/master/ss/7.png" width="30%"></img>
 
 This apps using this library :
 * JSoup for scrap content from website
